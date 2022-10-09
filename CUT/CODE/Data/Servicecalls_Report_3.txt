@@ -1,0 +1,91 @@
+All Service Calls closed for the Customer ID 1230321 are as listed as below: 
+
+*****************************************************************
+
+Customer ID: 1230321
+Request ID: 1234
+Request Date: 20/09/2022
+Request Description: Service for Washing Machine
+Request Status: Closed
+AMC Date: 27/08/2021
+AMC Duration: 12
+Purchase Date: 27/08/2020
+Product Name: hyundai washing machine
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1235
+Request Date: 22/09/2022
+Request Description: Service for refrigerator
+Request Status: Closed
+AMC Date: 24/08/2022
+AMC Duration: 18
+Purchase Date: 24/08/2021
+Product Name: Whirlpool Refrigerator
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1236
+Request Date: 22/09/2022
+Request Description: Setup Android TV
+Request Status: closed
+AMC Date: 26/10/2022
+AMC Duration: 12
+Purchase Date: 20/04/2022
+Product Name: Android TV
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1266
+Request Date: 24/09/2022
+Request Description: Service for Ac
+Request Status: Closed
+AMC Date: 20/07/2020
+AMC Duration: 15
+Purchase Date: 20/08/2021
+Product Name: Samsung central AC
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1269
+Request Date: 26/09/2022
+Request Description: Service for Inverter
+Request Status: Closed
+AMC Date: 21/10/2021
+AMC Duration: 12
+Purchase Date: 20/09/2022
+Product Name: Exide Inverter
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1270
+Request Date: 28/09/2022
+Request Description: Service for TV Mount
+Request Status: Closed
+AMC Date: 15/10/2021
+AMC Duration: 12
+Purchase Date: 18/09/2021
+Product Name: Oneplus Smart TV
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1271
+Request Date: 27/09/2022
+Request Description: Service for Geyser
+Request Status: Closed
+AMC Date: 18/04/2021
+AMC Duration: 6
+Purchase Date: 14/10/2020
+Product Name: Havells Electrical geyser
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1272
+Request Date: 25/09/2022
+Request Description: Service for Table fan
+Request Status: Closed
+AMC Date: 20/02/2021
+AMC Duration: 12
+Purchase Date: 20/02/2020
+Product Name: Croma Table fan
+-----------------------------------------------------------------------------------------------

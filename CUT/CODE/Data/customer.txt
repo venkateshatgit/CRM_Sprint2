@@ -1,0 +1,35 @@
+1230321|Sai|Yashwanth|1-190,SBI Colony,Puttur,Chittoor|9701386578|New|
+1230322|Bala|Sai|246/A,Manickam Street,T Nagar,Chennai,Tamil Nadu|9512364789|Existing|
+1230323|Venkatesh|Gunake|302,N.G.Mill,Murarji Peth,Solapur,Maharashtra|8686661077|New|
+1230324|Pushpendra|Yadav|Veer Street,Ayodhya,Uttar Pradesh|7705888861|Existing|
+1230325|Rajesh|Puralese|Cheemakurti Village,Ongole,Prakasam,AP|9876543210|New|
+1230327|Praneeth|Gowrineni|1-12,Gollapudi,Vijayawada,Andhra Pradesh|9701551897|New|
+1230329|John|Mathews|2-2/5,Galleria Complex,Bengaluru|9441534599|Existing|
+1230330|Johnji|Mathewsji|2-2/5,Galleria Complex,Bengaluru|9441536599|Existing|
+1230331|Rajaram|Hingmire|Sangli|9075522192|New|
+1230332|Amar|hingmire|Nashik,Maharashtra|9075522192|New|
+1230333|John|Mathews|2-2/5,Galleria Complex,Bengaluru|9441577499|Existing|
+1230334|Vedant|Ban|Shriram Colony, Sailu, Maharashtra|9420821191|New|
+1230335|Sai|yashhuu|Faridabad,Uttar Pradesh|9475845652|New|
+1230337|Ajay|Varmaa|2-4,Bhimavaram,West Godavari,Andhra Pradesh|9569562222|New|
+1230338|Paandu|Ranga raju|12-16,Ankallamma Street,Eluru,Andhra pradesh|9637418520|New|
+1230339|Prabhas|Savi|14-18,Chitradurga Street,Mysuru,Karnataka|9456123789|Existing|
+1230341|Aman|Bhaskar|17/2,Patna,Bihar|9562314785|New|
+1230342|Sushant|Singh|Survey-12,PgSN nagar,Madhapur,hyderabad,Telangana|7531598264|Existing|
+1230344|Mahesh|Kumar|1-230,MSM Nagr,Anakapalli,Andhra pradesh|9456789214|New|
+1230345|Sagar|Prabhas|14/8,Radhika Street,hanamkonda,telangana|9578|New|
+1230348|Dosala Durga|Prasad|14G Colony,Guntur,Andhra Pradesh|8462159375|Existing|
+1230349|Harry|Styles|Near Jesus Church Castilia,Candolim,Goa|7531598622|Existing|
+1230350|Katy|Perry|Aditya Avenue,100 ft street,Bengaluru,Karnataka|7418529630|New|
+1230351|Dua|Lipa|14/T,NGO colony,Anna Nagar,Chennai,Tamilnadu|8632479612|Existing|
+1230352|Om|Raut|Bandra West,Maharashtra|7456122123|New|
+1230353|Anusha|Reddy|240B,Fruit market,tirupati,AndhraPradesh|8852526446|New|
+1230354|Sreeja|Reddy|Nagari,chittoor,Andhra pradesh|8484484848|Existing|
+1230356|Upendra|Dhfm|14A,MR palli,Tirupati,Andhra Pradesh|8456565656|Existing|
+1230357|Saranteja|reddy|22B,VR puram,Chittoor,Andhra pradesh|7774445559|New|
+1230358|Raghava|Kumar|1-A,Worli Phone Street,kadapa,Andhra pradesh|7457467479|New|
+1230359|Abram|Qureshi|Undisclosed Location,india|7777777777|New|
+1230360|Krishna|Chaitanya|14,Aravinda nagar,Cherlopalle,Andhra pradesh|8458658520|Existing|
+1230361|Ram|Lakshman|Ramoji Film City,hyderabad,Telangana|8523691471|Existing|
+1230362|Harshith|Sayzz|14/17,nankaram guda,hyderabad,Telangana|8741235698|New|
+1230363|Janakirami|Reddy|703,Swami Vivekanad Bhawan,Surat|9701590372|Existing|

@@ -1,0 +1,107 @@
+Demos scheduled on given date : 8/10/2022
+******************************************************************************
+
+Request ID: 1238
+Customer ID: 1230324
+Request Type: DRQ
+Request Date: 10/10/2022
+Request Description: Demo request for Washing Machine
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Noida,Uttar Pradesh
+Demo Time: 10:00 AM
+-------------------------------------------------------------------------
+
+Request ID: 1239
+Customer ID: 1230325
+Request Type: DRQ
+Request Date: 25/09/2022
+Request Description: Demo for Washing machine Working
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Rajajinagar,Shimla,Uttar Pradesh
+Demo Time: 04:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1240
+Customer ID: 1320327
+Request Type: DRQ
+Request Date: 25/08/2022
+Request Description: AC installation
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Puttur
+Demo Time: 2:15 PM
+-------------------------------------------------------------------------
+
+Request ID: 1243
+Customer ID: 1230351
+Request Type: DRQ
+Request Date: 27/09/2022
+Request Description: Demo for Vaccum Cleaner
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Tuljainagar,Kupwad,Sangli
+Demo Time: 03:00PM
+-------------------------------------------------------------------------
+
+Request ID: 1254
+Customer ID: 1230344
+Request Type: DRQ
+Request Date: 27/09/2022
+Request Description: Demo needed for AC
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Sector 49,Gurgoan,haryana
+Demo Time: 4:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1255
+Customer ID: 1230360
+Request Type: DRQ
+Request Date: 28/09/2022
+Request Description: Demo needed for Washing Machine
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 12-12,Beasant Nagar,vijayawada
+Demo Time: 12:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1257
+Customer ID: 1230349
+Request Type: DRQ
+Request Date: 26/09/2022
+Request Description: Demo Needed for Inverter
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 14/14,Mahakallama Street,Bhimavaram,Andhra Pradesh
+Demo Time: 12:30 PM
+-------------------------------------------------------------------------
+
+Request ID: 1261
+Customer ID: 1230330
+Request Type: DRQ
+Request Date: 28/09/2022
+Request Description: Demo for TV setup
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 12-12,MR palli,Tirupati,Andhra Pradesh
+Demo Time: 4:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1262
+Customer ID: 1230352
+Request Type: DRQ
+Request Date: 25/09/2022
+Request Description: Demo for AC
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 13B,Sector 35,Noida,Uttar Pradesh
+Demo Time: 5:00 PM
+-------------------------------------------------------------------------
+
+
+Demos scheduled on given date : 8/10/2022 updated in file Demos_Report_1.txt 
+
+
+-----------------------------------------------------------------------------------

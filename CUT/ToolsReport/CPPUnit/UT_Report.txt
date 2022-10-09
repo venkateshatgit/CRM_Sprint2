@@ -1,0 +1,21 @@
+TestDriver::TestCustomerSunnyCase1 : OK
+TestDriver::TestCustomerSunnyCase2 : OK
+TestDriver::TestCustomerSunnyCase3 : OK
+TestDriver::TestCustomerSunnyCase4 : OK
+TestDriver::TestCustomerSunnyCase5 : OK
+TestDriver::TestCustomerRainyCase1 : OK
+TestDriver::TestCustomerRainyCase2 : OK
+TestDriver::TestCustomerRainyCase3 : OK
+TestDriver::TestCustomerRainyCase4 : OK
+TestDriver::TestCustomerRainyCase5 : OK
+TestDriver::TestDateSunnyCase1 : OK
+TestDriver::TestDateSunnyCase2 : OK
+TestDriver::TestDateSunnyCase3 : OK
+TestDriver::TestDateSunnyCase4 : OK
+TestDriver::TestDateSunnyCase5 : OK
+TestDriver::TestDateRainyCase1 : OK
+TestDriver::TestDateRainyCase2 : OK
+TestDriver::TestDateRainyCase3 : OK
+TestDriver::TestDateRainyCase4 : OK
+TestDriver::TestDateRainyCase5 : OK
+OK (20)

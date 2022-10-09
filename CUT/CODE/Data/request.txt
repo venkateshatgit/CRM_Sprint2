@@ -1,0 +1,37 @@
+1234|1230321|SRQ|20/09/2022|Service for Washing Machine|Closed|27/08/2021|12|27/08/2020|hyundai washing machine|
+1235|1230321|SRQ|22/09/2022|Service for refrigerator|Closed|24/08/2022|18|24/08/2021|Whirlpool Refrigerator|
+1236|1230321|SRQ|22/09/2022|Setup Android TV|closed|26/10/2022|12|20/04/2022|Android TV|
+1245|1230333|SRQ|24/09/2022|New mobile display change|Closed|20/09/2022|20/10/2023|14|18/09/2022|
+1249|1230339|SRQ|30/09/2022|Ac service needed|Open|22/09/2022|18|20/08/2020|Hitachi AC|
+1253|1230346|SRQ|28/09/2022|Refrigerator Service|Closed|30/11/2022|12|30/11/2021|LG refrigerator|
+1258|1230350|SRQ|28/09/2022|Setup Laptop OS|Closed|24/10/2022|12|24/10/2021|Apple macBook|
+1259|1230351|SRQ|29/09/2022|Setup washing Machine|Closed|25/10/2022|12|24/10/2021|Samsung Washing Machine|
+1266|1230321|SRQ|24/09/2022|Service for Ac|Closed|20/07/2020|15|20/08/2021|Samsung central AC|
+1269|1230321|SRQ|26/09/2022|Service for Inverter|Closed|21/10/2021|12|20/09/2022|Exide Inverter|
+1270|1230321|SRQ|28/09/2022|Service for TV Mount|Closed|15/10/2021|12|18/09/2021|Oneplus Smart TV|
+1271|1230321|SRQ|27/09/2022|Service for Geyser|Closed|18/04/2021|6|14/10/2020|Havells Electrical geyser|
+1272|1230321|SRQ|25/09/2022|Service for Table fan|Closed|20/02/2021|12|20/02/2020|Croma Table fan|
+1274|1230355|SRQ|28/09/2022|Service for Android TV|Open|20/4/2021|6|20/3/2021|Xiaomi Android TV|
+1237|1230322|CML|23/09/2022|AC not providing cooling|Closed|Electronic appliance|Air Conditioner|Split AC|
+1242|1230330|CML|28/09/2022|Washing Machine not working|Open|Electronics|Washing Machine|Front Load Washing Machine|
+1244|1230332|CML|24/09/2022|Mobile Display damaged|Open|28/09/2022|Electronics|Samsung Mobile S22|
+1247|1230335|CML|28/09/2022|Mattress destroyed by pests|Open|Furnitures|Beds and Mattresses|Inside cotton and foam destroyed|
+1248|1230337|CML|29/09/2022|Inverter not charging|Open|Electronic Appliances|Aamaron Inverter|distilled Water content decreased|
+1256|1230348|CML|24/09/2022|Device got exploded and now it is not working|Open|Electronics appliance|damage|Collect and send it to factory|
+1260|1230321|CML|26/09/2022|Laptop not working|Open|Electronic Appliances|HP laptop|battery problem|
+1263|1230353|CML|25/09/2022|earphones not working|Open|Electronic Appliances|Realme pro earphones|Left earpiece sound not coming|
+1265|1230351|CML|28/09/2022|Phone sound decreased|Open|Electronic Appliances|Apple iPhone 13|Phone was dipped in water for 15 minutes|
+1267|1230323|CML|24/09/2022|Device got exploded and now it is not working|Open|Electronics appliance|damage|Collect and send it to factory|
+1268|1230334|CML|25/09/2022|Door is not working in Refrigerator|Open|e-appliance|Large|Door hinge damaged|
+1238|1230324|DRQ|10/10/2022|Demo request for Washing Machine|Open|8/10/2022|Noida,Uttar Pradesh|10:00 AM|
+1239|1230325|DRQ|25/09/2022|Demo for Washing machine Working|Open|8/10/2022|Rajajinagar,Shimla,Uttar Pradesh|04:00 PM|
+1240|1320327|DRQ|25/08/2022|AC installation|Open|8/10/2022|Puttur|2:15 PM|
+1241|1230329|DRQ|28/09/2022|Demo Request for AC|Open|7/10/2022|Mumbai,Maharashtra|2:15 PM|
+1243|1230351|DRQ|27/09/2022|Demo for Vaccum Cleaner|Open|8/10/2022|Tuljainagar,Kupwad,Sangli|03:00PM|
+1246|1230334|DRQ|26/09/2022|New mobile setup|Open|7/10/2022|Pune,Maharashtra|4:30 PM|
+1250|1230346|DRQ|28/09/2022|Demo needed for fan|Closed|30/09/2022|1-240/2,Kavam Gudi street,Puttur|3:30 PM|
+1254|1230344|DRQ|27/09/2022|Demo needed for AC|Open|8/10/2022|Sector 49,Gurgoan,haryana|4:00 PM|
+1255|1230360|DRQ|28/09/2022|Demo needed for Washing Machine|Open|8/10/2022|12-12,Beasant Nagar,vijayawada|12:00 PM|
+1257|1230349|DRQ|26/09/2022|Demo Needed for Inverter|Open|8/10/2022|14/14,Mahakallama Street,Bhimavaram,Andhra Pradesh|12:30 PM|
+1261|1230330|DRQ|28/09/2022|Demo for TV setup|Open|8/10/2022|12-12,MR palli,Tirupati,Andhra Pradesh|4:00 PM|
+1262|1230352|DRQ|25/09/2022|Demo for AC|Open|8/10/2022|13B,Sector 35,Noida,Uttar Pradesh|5:00 PM|
