@@ -17,7 +17,6 @@ int customerManagement(map<string, Customer*> &mapCustomer,char* filename){
                                 break;
 
                         case 2 :updateCustomer(mapCustomer);
-                                if(ret==0)
                                 break;
 
                         case 3 :deleteCustomer(mapCustomer);

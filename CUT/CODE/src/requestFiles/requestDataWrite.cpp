@@ -50,13 +50,17 @@ void requestDataWrite(ReqDatabase &reqDb, char** argv){
                 file<<(it->second->getDemoTime())<<"|";
                 file<<endl;
             }
+            cout<<"Request data updated in file "<<argv[2]<<endl;
         }
+
         else
-            throw argv[1];
+            throw argv[2];
 
         file.close();
+
     }
     catch(string str){
-        cout<<"ERROR MESSAGE: Invalid file: "<<argv[1]<<endl;
+        cout<<"ERROR MESSAGE: Invalid file: "<<argv[2]<<endl;
     }
+    
 }
