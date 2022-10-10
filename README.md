@@ -27,12 +27,12 @@ Unit test cases (at least 10 test cases per module) and Integration test cases i
 
 # Team members
 
-#### Ankur Rajaram Hingmire
+#### [Ankur Rajaram Hingmire](https://www.linkedin.com/in/ankur-h-4a5b69105/)
 
-#### Paramjyothi Sai Yashwanth Reddy
+#### [Paramjyothi Sai Yashwanth Reddy](https://www.linkedin.com/in/saiyashwanthreddy18/)
 
-#### Pushpendra Yadav
+#### [Pushpendra Yadav](https://www.linkedin.com/in/pushpendra-yadav-2031971ba/)
 
-#### Vedant Balasaheb Ban
+#### [Vedant Balasaheb Ban](https://www.linkedin.com/in/vedant-ban-2b76001b4/)
 
-#### Venkatesh Prabhakar Gunake
+#### [Venkatesh Prabhakar Gunake](https://www.linkedin.com/in/venkatesh-gunake-193831178/)
