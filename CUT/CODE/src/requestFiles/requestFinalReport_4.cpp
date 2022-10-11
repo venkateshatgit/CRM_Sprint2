@@ -106,7 +106,7 @@ string tempDate;
 
     if(dd2>=dd && mm2>=mmtemp && yy2>=yytemp )
     {
-        file<<"\nRequest ID: "<<(it->second->getRequestID())<<"\nCustomer Id: "<<(it->second->getCustID())<<"\nRequest Type: "<<(it->second->getRequestDate())<<"\nRequest Description: "<<
+        file<<"\nRequest ID: "<<(it->second->getRequestID())<<"\nCustomer Id: "<<(it->second->getCustID())<<"\nRequest Date: "<<(it->second->getRequestDate())<<"\nRequest Description: "<<
             (it->second->getRequestDesc())<<"\nRequest Status: "<<(it->second->getRequestStatus())<<"\nCategory: "<<(it->second->getCategory())
             <<"\nSub Category: "<<(it->second->getSubCategory())<<"\n Description: "<<(it->second->getDescription())<<endl;
             file<<"-----------------------------------------------------------------------------------------------"<<endl;
