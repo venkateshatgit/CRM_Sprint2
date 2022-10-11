@@ -1,11 +1,19 @@
 #include "../../include/header.h"
-
+#include "../../include/functions.h"
 // REPORT 1 :
 
 void FinalReport_1(ReqDatabase &reqDb){
 string date,temp;
+int r;
+    do{
     cout<<"Enter a date to get Demos scheduled on given date as dd/mm/yyyy."<<endl;
-    cin>>date;           // date validation
+    cin>>date;   cin.ignore();        // TODO:date validation& e
+    r=dateValidation(date);
+    if(r==FAILURE)
+    {
+        cout<<"Please enter valid date."<<endl;
+    }
+    }while(r==FAILURE);
     ofstream file;
     int count=0;
     file.open("../Data/Demos_Report_1.txt");
@@ -21,7 +29,7 @@ string date,temp;
             //write into file;
                 
                 file<<"\nRequest ID: "<<(it->second->getRequestID())<<"\nCustomer ID: "<<(it->second->getCustID())<<"\nRequest Type: "<<
-                (it->second->getrequestType())<<"\nRequest Date: "<<(it->second->getRequestDate())<<"\nRequest Description: "<<(it->second->getRequestDesc())
+                (it->second->getrequestType())<<"\nRequest Date:"<<(it->second->getRequestDate())<<"\nRequest Description: "<<(it->second->getRequestDesc())
                 <<"\nRequest Status: "<<(it->second->getRequestStatus())<<"\nDemo Date: "<<(it->second->getDemoDate())<<"\nDemo Address: "<<
                 (it->second->getDemoAddress())<<"\nDemo Time: "<<(it->second->getDemoTime())<<endl;
                 file<<"-------------------------------------------------------------------------"<<endl;
