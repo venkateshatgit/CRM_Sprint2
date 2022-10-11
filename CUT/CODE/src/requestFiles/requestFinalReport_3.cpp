@@ -1,9 +1,28 @@
 #include "../../include/header.h"
 
-void FinalReport_3(ReqDatabase &reqDb){
+static int custIdValidation(map<string, Customer*> &mapCustomer, string custID){
+
+    cout<<"Checking Validation: "<<custID<<endl;
+
+    if(mapCustomer.find(custID)!=mapCustomer.end())
+        return 1;
+    return 0;
+}
+
+void FinalReport_3(ReqDatabase &reqDb, map<string, Customer*> &mapCustomer){
     string cstmrid, temp3,temp4;
-    cout <<"Please Enter the Customer ID for generating Service Call report: "<<endl;
-    cin >>cstmrid;
+
+    int r;
+    do{
+        cout <<"Please Enter the Customer ID for generating Service Call report: "<<endl;
+        cin >>cstmrid; cin.ignore();
+
+        r = custIdValidation(mapCustomer, cstmrid);
+        if(r==FAILURE)
+            cout<<"Please enter valid customer Id"<<endl;
+
+    }while(r==FAILURE);
+
 // customer id validation , max no need
     ofstream file;
     file.open("../Data/Servicecalls_Report_3.txt");

@@ -32,7 +32,7 @@ int main(int argc, char** argv){
                 case 2 :requestManagement(mapCustomer, reqDb);
                         break;
 
-                case 3 :displayReport(reqDb);
+                case 3 :displayReport(mapCustomer, reqDb);
                         break;
 
                 case 4:  TotalRequestCount(reqDb);

@@ -26,9 +26,9 @@ void requestDataWrite(ReqDatabase &reqDb, char** argv);
 //----------------Report functions--------------
 void FinalReport_1(ReqDatabase &reqDb);
 void FinalReport_2(ReqDatabase &reqDb);
-void FinalReport_3(ReqDatabase &reqDb);
+void FinalReport_3(ReqDatabase &reqDb, map<string, Customer*> &mapCustomer);
 void FinalReport_4(ReqDatabase &reqDb);
-int displayReport(ReqDatabase &reqDb);
+int displayReport( map<string, Customer*> &mapCustomer, ReqDatabase &reqDb);
 
 //---------------- Date Validation ----------
 

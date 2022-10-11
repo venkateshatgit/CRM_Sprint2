@@ -61,7 +61,7 @@ int dateValidation(string tempDate)
     }
 }
 
-int custIdValidation(map<string, Customer*> &mapCustomer, string custID){
+static int custIdValidation(map<string, Customer*> &mapCustomer, string custID){
 
     cout<<"Checking Validation: "<<custID<<endl;
 

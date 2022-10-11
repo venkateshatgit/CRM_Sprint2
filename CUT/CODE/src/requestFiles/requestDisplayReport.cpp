@@ -1,7 +1,7 @@
 #include "../../include/header.h"
 #include "../../include/functions.h"
 
-int displayReport(ReqDatabase &reqDb)
+int displayReport( map<string, Customer*> &mapCustomer, ReqDatabase &reqDb)
 {       
         bool flag=true;
         int n,ret;
@@ -18,7 +18,7 @@ int displayReport(ReqDatabase &reqDb)
                         case 2: FinalReport_2(reqDb);
                                 break;
 
-                        case 3 : FinalReport_3(reqDb);
+                        case 3 : FinalReport_3(reqDb, mapCustomer);
                                 break;
 
                         case 4 : FinalReport_4(reqDb);
