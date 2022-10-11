@@ -1,9 +1,394 @@
 ***************************************************************************************
-Service request recieved in Last 30 days between 3/11/2000 to 3/12/2000 : 
+Service request recieved in Last 30 days between 10/9/2022 to 10/10/2022 : 
 ***************************************************************************************
+
+Customer ID: 1230321
+Request ID: 1234
+Request Date:20/09/2022
+Request Description: Service for Washing Machine
+Request StatusClosed
+AMC Date:27/08/2021
+AMC Duration: 12
+Purchase Date: 27/08/2020
+Product Name: hyundai washing machine
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1235
+Request Date:22/09/2022
+Request Description: Service for refrigerator
+Request StatusClosed
+AMC Date:24/08/2022
+AMC Duration: 18
+Purchase Date: 24/08/2021
+Product Name: Whirlpool Refrigerator
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1236
+Request Date:22/09/2022
+Request Description: Setup Android TV
+Request Statusclosed
+AMC Date:26/10/2022
+AMC Duration: 12
+Purchase Date: 20/04/2022
+Product Name: Android TV
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230333
+Request ID: 1245
+Request Date:24/09/2022
+Request Description: New mobile display change
+Request StatusClosed
+AMC Date:20/09/2022
+AMC Duration: 20/10/2023
+Purchase Date: 14
+Product Name: 18/09/2022
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230339
+Request ID: 1249
+Request Date:30/09/2022
+Request Description: Ac service needed
+Request StatusOpen
+AMC Date:22/09/2022
+AMC Duration: 18
+Purchase Date: 20/08/2020
+Product Name: Hitachi AC
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230346
+Request ID: 1253
+Request Date:28/09/2022
+Request Description: Refrigerator Service
+Request StatusClosed
+AMC Date:30/11/2022
+AMC Duration: 12
+Purchase Date: 30/11/2021
+Product Name: LG refrigerator
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230350
+Request ID: 1258
+Request Date:28/09/2022
+Request Description: Setup Laptop OS
+Request StatusClosed
+AMC Date:24/10/2022
+AMC Duration: 12
+Purchase Date: 24/10/2021
+Product Name: Apple macBook
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230351
+Request ID: 1259
+Request Date:29/09/2022
+Request Description: Setup washing Machine
+Request StatusClosed
+AMC Date:25/10/2022
+AMC Duration: 12
+Purchase Date: 24/10/2021
+Product Name: Samsung Washing Machine
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1266
+Request Date:24/09/2022
+Request Description: Service for Ac
+Request StatusClosed
+AMC Date:20/07/2020
+AMC Duration: 15
+Purchase Date: 20/08/2021
+Product Name: Samsung central AC
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1269
+Request Date:26/09/2022
+Request Description: Service for Inverter
+Request StatusClosed
+AMC Date:21/10/2021
+AMC Duration: 12
+Purchase Date: 20/09/2022
+Product Name: Exide Inverter
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1270
+Request Date:28/09/2022
+Request Description: Service for TV Mount
+Request StatusClosed
+AMC Date:15/10/2021
+AMC Duration: 12
+Purchase Date: 18/09/2021
+Product Name: Oneplus Smart TV
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1271
+Request Date:27/09/2022
+Request Description: Service for Geyser
+Request StatusClosed
+AMC Date:18/04/2021
+AMC Duration: 6
+Purchase Date: 14/10/2020
+Product Name: Havells Electrical geyser
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230321
+Request ID: 1272
+Request Date:25/09/2022
+Request Description: Service for Table fan
+Request StatusClosed
+AMC Date:20/02/2021
+AMC Duration: 12
+Purchase Date: 20/02/2020
+Product Name: Croma Table fan
+-----------------------------------------------------------------------------------------------
+
+Customer ID: 1230355
+Request ID: 1274
+Request Date:28/09/2022
+Request Description: Service for Android TV
+Request StatusOpen
+AMC Date:20/4/2021
+AMC Duration: 6
+Purchase Date: 20/3/2021
+Product Name: Xiaomi Android TV
+-----------------------------------------------------------------------------------------------
 ***************************************************************************************
-Complaints recieved in Last 30 days between 3/11/2000 to 3/12/2000 : 
+Complaints recieved in Last 30 days between 10/9/2022 to 10/10/2022 : 
 ***************************************************************************************
+
+Request ID: 1237
+Customer Id: 1230322
+Request Type: 23/09/2022
+Request Description: AC not providing cooling
+Request Status: Closed
+Category: Electronic appliance
+Sub Category: Air Conditioner
+ Description: Split AC
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1242
+Customer Id: 1230330
+Request Type: 28/09/2022
+Request Description: Washing Machine not working
+Request Status: Open
+Category: Electronics
+Sub Category: Washing Machine
+ Description: Front Load Washing Machine
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1244
+Customer Id: 1230332
+Request Type: 24/09/2022
+Request Description: Mobile Display damaged
+Request Status: Open
+Category: 28/09/2022
+Sub Category: Electronics
+ Description: Samsung Mobile S22
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1247
+Customer Id: 1230335
+Request Type: 28/09/2022
+Request Description: Mattress destroyed by pests
+Request Status: Open
+Category: Furnitures
+Sub Category: Beds and Mattresses
+ Description: Inside cotton and foam destroyed
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1248
+Customer Id: 1230337
+Request Type: 29/09/2022
+Request Description: Inverter not charging
+Request Status: Open
+Category: Electronic Appliances
+Sub Category: Aamaron Inverter
+ Description: distilled Water content decreased
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1256
+Customer Id: 1230348
+Request Type: 24/09/2022
+Request Description: Device got exploded and now it is not working
+Request Status: Open
+Category: Electronics appliance
+Sub Category: damage
+ Description: Collect and send it to factory
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1260
+Customer Id: 1230321
+Request Type: 26/09/2022
+Request Description: Laptop not working
+Request Status: Open
+Category: Electronic Appliances
+Sub Category: HP laptop
+ Description: battery problem
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1263
+Customer Id: 1230353
+Request Type: 25/09/2022
+Request Description: earphones not working
+Request Status: Open
+Category: Electronic Appliances
+Sub Category: Realme pro earphones
+ Description: Left earpiece sound not coming
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1265
+Customer Id: 1230351
+Request Type: 28/09/2022
+Request Description: Phone sound decreased
+Request Status: Open
+Category: Electronic Appliances
+Sub Category: Apple iPhone 13
+ Description: Phone was dipped in water for 15 minutes
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1267
+Customer Id: 1230323
+Request Type: 24/09/2022
+Request Description: Device got exploded and now it is not working
+Request Status: Open
+Category: Electronics appliance
+Sub Category: damage
+ Description: Collect and send it to factory
+-----------------------------------------------------------------------------------------------
+
+Request ID: 1268
+Customer Id: 1230334
+Request Type: 25/09/2022
+Request Description: Door is not working in Refrigerator
+Request Status: Open
+Category: e-appliance
+Sub Category: Large
+ Description: Door hinge damaged
+-----------------------------------------------------------------------------------------------
 ***************************************************************************************
-Demo request recieved in Last 30 days between 3/11/2000 to 3/12/2000 : 
+Demo request recieved in Last 30 days between 10/9/2022 to 10/10/2022 : 
 ***************************************************************************************
+
+Request ID: 1238
+Customer ID: 1230324
+Request Type: DRQ
+Request Date:10/10/2022
+Request Description: Demo request for Washing Machine
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Noida,Uttar Pradesh
+Demo Time: 10:00 AM
+-------------------------------------------------------------------------
+
+Request ID: 1239
+Customer ID: 1230325
+Request Type: DRQ
+Request Date:25/09/2022
+Request Description: Demo for Washing machine Working
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Rajajinagar,Shimla,Uttar Pradesh
+Demo Time: 04:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1241
+Customer ID: 1230329
+Request Type: DRQ
+Request Date:28/09/2022
+Request Description: Demo Request for AC
+Request Status: Open
+Demo Date: 7/10/2022
+Demo Address: Mumbai,Maharashtra
+Demo Time: 2:15 PM
+-------------------------------------------------------------------------
+
+Request ID: 1243
+Customer ID: 1230351
+Request Type: DRQ
+Request Date:27/09/2022
+Request Description: Demo for Vaccum Cleaner
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Tuljainagar,Kupwad,Sangli
+Demo Time: 03:00PM
+-------------------------------------------------------------------------
+
+Request ID: 1246
+Customer ID: 1230334
+Request Type: DRQ
+Request Date:26/09/2022
+Request Description: New mobile setup
+Request Status: Open
+Demo Date: 7/10/2022
+Demo Address: Pune,Maharashtra
+Demo Time: 4:30 PM
+-------------------------------------------------------------------------
+
+Request ID: 1250
+Customer ID: 1230346
+Request Type: DRQ
+Request Date:28/09/2022
+Request Description: Demo needed for fan
+Request Status: Closed
+Demo Date: 30/09/2022
+Demo Address: 1-240/2,Kavam Gudi street,Puttur
+Demo Time: 3:30 PM
+-------------------------------------------------------------------------
+
+Request ID: 1254
+Customer ID: 1230344
+Request Type: DRQ
+Request Date:27/09/2022
+Request Description: Demo needed for AC
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: Sector 49,Gurgoan,haryana
+Demo Time: 4:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1255
+Customer ID: 1230360
+Request Type: DRQ
+Request Date:28/09/2022
+Request Description: Demo needed for Washing Machine
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 12-12,Beasant Nagar,vijayawada
+Demo Time: 12:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1257
+Customer ID: 1230349
+Request Type: DRQ
+Request Date:26/09/2022
+Request Description: Demo Needed for Inverter
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 14/14,Mahakallama Street,Bhimavaram,Andhra Pradesh
+Demo Time: 12:30 PM
+-------------------------------------------------------------------------
+
+Request ID: 1261
+Customer ID: 1230330
+Request Type: DRQ
+Request Date:28/09/2022
+Request Description: Demo for TV setup
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 12-12,MR palli,Tirupati,Andhra Pradesh
+Demo Time: 4:00 PM
+-------------------------------------------------------------------------
+
+Request ID: 1262
+Customer ID: 1230352
+Request Type: DRQ
+Request Date:25/09/2022
+Request Description: Demo for AC
+Request Status: Open
+Demo Date: 8/10/2022
+Demo Address: 13B,Sector 35,Noida,Uttar Pradesh
+Demo Time: 5:00 PM
+-------------------------------------------------------------------------
