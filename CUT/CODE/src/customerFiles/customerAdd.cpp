@@ -48,3 +48,4 @@ void addCustomer(map<string, Customer*> &mapCustomer){
     Customer *newCustomer = new Customer(customerId, firstName, lastName, address, phoneNumber,customerType);
     mapCustomer[customerId] = newCustomer;
 }
+

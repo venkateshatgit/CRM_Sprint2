@@ -85,5 +85,4 @@ void extractCustomerData(char** argv, map<string, Customer*> &mapCustomer){
         cout<<"ERROR! opening file"<<endl;
         cout<<"Invalid path: "<<argv<<endl;
     }
-    
 }
