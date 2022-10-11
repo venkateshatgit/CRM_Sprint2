@@ -1,5 +1,5 @@
 ***************************************************************************************
-Service request recieved in Last 30 days between 8/9/2022 to 8/10/2022 : 
+Service request recieved in Last 30 days between 7/9/2022 to 7/10/2022 : 
 ***************************************************************************************
 
 Customer ID: 1230321
@@ -13,12 +13,12 @@ Purchase Date: 27/08/2020
 Product Name: hyundai washing machine
 -----------------------------------------------------------------------------------------------
 ***************************************************************************************
-Complaints recieved in Last 30 days between 8/9/2022 to 8/10/2022 : 
+Complaints recieved in Last 30 days between 7/9/2022 to 7/10/2022 : 
 ***************************************************************************************
 
 Request ID: 1237
 Customer ID: 1230322
-Request Type: 23/09/2022
+Request Date: 23/09/2022
 Request Description: AC not providing cooling
 Request Status: Closed
 Category: Electronic appliance
@@ -28,7 +28,7 @@ Description: Split AC
 
 Request ID: 1242
 Customer ID: 1230330
-Request Type: 28/09/2022
+Request Date: 28/09/2022
 Request Description: Washing Machine not working
 Request Status: Open
 Category: Electronics
@@ -38,7 +38,7 @@ Description: Front Load Washing Machine
 
 Request ID: 1244
 Customer ID: 1230332
-Request Type: 24/09/2022
+Request Date: 24/09/2022
 Request Description: Mobile Display damaged
 Request Status: Open
 Category: 28/09/2022
@@ -48,7 +48,7 @@ Description: Samsung Mobile S22
 
 Request ID: 1247
 Customer ID: 1230335
-Request Type: 28/09/2022
+Request Date: 28/09/2022
 Request Description: Mattress destroyed by pests
 Request Status: Open
 Category: Furnitures
@@ -58,7 +58,7 @@ Description: Inside cotton and foam destroyed
 
 Request ID: 1248
 Customer ID: 1230337
-Request Type: 29/09/2022
+Request Date: 29/09/2022
 Request Description: Inverter not charging
 Request Status: Open
 Category: Electronic Appliances
@@ -68,7 +68,7 @@ Description: distilled Water content decreased
 
 Request ID: 1256
 Customer ID: 1230348
-Request Type: 24/09/2022
+Request Date: 24/09/2022
 Request Description: Device got exploded and now it is not working
 Request Status: Open
 Category: Electronics appliance
@@ -78,7 +78,7 @@ Description: Collect and send it to factory
 
 Request ID: 1260
 Customer ID: 1230321
-Request Type: 26/09/2022
+Request Date: 26/09/2022
 Request Description: Laptop not working
 Request Status: Open
 Category: Electronic Appliances
@@ -88,7 +88,7 @@ Description: battery problem
 
 Request ID: 1263
 Customer ID: 1230353
-Request Type: 25/09/2022
+Request Date: 25/09/2022
 Request Description: earphones not working
 Request Status: Open
 Category: Electronic Appliances
@@ -98,7 +98,7 @@ Description: Left earpiece sound not coming
 
 Request ID: 1265
 Customer ID: 1230351
-Request Type: 28/09/2022
+Request Date: 28/09/2022
 Request Description: Phone sound decreased
 Request Status: Open
 Category: Electronic Appliances
@@ -108,7 +108,7 @@ Description: Phone was dipped in water for 15 minutes
 
 Request ID: 1267
 Customer ID: 1230323
-Request Type: 24/09/2022
+Request Date: 24/09/2022
 Request Description: Device got exploded and now it is not working
 Request Status: Open
 Category: Electronics appliance
@@ -118,7 +118,7 @@ Description: Collect and send it to factory
 
 Request ID: 1268
 Customer ID: 1230334
-Request Type: 25/09/2022
+Request Date: 25/09/2022
 Request Description: Door is not working in Refrigerator
 Request Status: Open
 Category: e-appliance
@@ -126,7 +126,7 @@ Sub Category: Large
 Description: Door hinge damaged
 -----------------------------------------------------------------------------------------------
 ***************************************************************************************
-Demo request recieved in Last 30 days between 8/9/2022 to 8/10/2022 : 
+Demo request recieved in Last 30 days between 7/9/2022 to 7/10/2022 : 
 ***************************************************************************************
 
 Request ID: 1238
