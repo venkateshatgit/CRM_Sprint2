@@ -17,7 +17,7 @@ void FinalReport_2(ReqDatabase &reqDb){
         if(strcasecmp(temp2.c_str(),open.c_str())==0)  
         {
             //Complaint *temp2 = it2->second;
-           file<<"\nRequest ID: "<<(it2->second->getRequestID())<<"\nCustomer ID: "<<(it2->second->getCustID())<<"\nRequest Type: "<<(it2->second->getRequestDate())<<"\nRequest Description: "<<
+           file<<"\nRequest ID: "<<(it2->second->getRequestID())<<"\nCustomer ID: "<<(it2->second->getCustID())<<"\nRequest Date: "<<(it2->second->getRequestDate())<<"\nRequest Description: "<<
             (it2->second->getRequestDesc())<<"\nRequest Status: "<<(it2->second->getRequestStatus())<<"\nCategory: "<<(it2->second->getCategory())
             <<"\nSub Category: "<<(it2->second->getSubCategory())<<"\nDescription: "<<(it2->second->getDescription())<<endl;
             file<<"-----------------------------------------------------------------------------------------------"<<endl;
