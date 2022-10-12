@@ -1,5 +1,5 @@
-#include "../../include/header.h"
-#include "../../include/functions.h"
+#include <header.h>
+#include <functions.h>
 
 //int dateValidation(string tempDate);
 int dateValidation(string tempDate)
@@ -16,14 +16,15 @@ int dateValidation(string tempDate)
         token.push_back(tempStr);
      
     }
-    if(token.size()==1 || token.size()>3)
+    if(token.size()!=3)
     {
         throw x;
     }
     int dd = stoi(token[0]);
     int mm = stoi(token[1]);
     int yy = stoi(token[2]);
-    if(1950<= yy <= 2050)
+
+    if(2000 <= yy && yy <= 2022)
     {
          if( (mm==4 && dd>0 && dd <=30) ||( mm==6 && dd>0 && dd <=30)|| (mm==9 && dd>0 && dd <=30)|| (mm==11  && dd>0 && dd <=30))
         {
@@ -35,7 +36,7 @@ int dateValidation(string tempDate)
         }
         else if ( mm==2 )
         {
-            if(( yy%4000==0 || ( yy%100!=0 && yy%4==0 )) && dd>0 && dd<=29)
+            if(( yy%400==0 || ( yy%100!=0 && yy%4==0 )) && dd>0 && dd<=29)
             {
                 return SUCCESS;
             }
@@ -72,18 +73,7 @@ static int custIdValidation(map<string, Customer*> &mapCustomer, string custID){
 
 void addRequest(map<string, Customer*> &mapCustomer, ReqDatabase &reqDb){
 
-    //Search maximum id in map
-    //  assume it will give largest ID
-    auto it1=reqDb.mapReqService.rbegin();
-    auto it2=reqDb.mapReqComplaint.rbegin(); 
-    auto it3=reqDb.mapReqDemo.rbegin();
-
-    string id1 = it1->second->getRequestID();
-    string id2 = (id1 > it2->second->getRequestID()) ? id1 :  it2->second->getRequestID();
-    string requestID = (id2 > it3->second->getRequestID()) ? id2 :  it3->second->getRequestID();
-
-    int newReqID = stoi(requestID) + 1;
-    requestID = to_string(newReqID);
+    string requestID = reqDb.generateId();
     
     //request variable
     string custID="", requestType="", requestDate="", requestDesc="", requestStatus="";
@@ -168,7 +158,7 @@ void addRequest(map<string, Customer*> &mapCustomer, ReqDatabase &reqDb){
             Service *s = new Service(requestID, custID, requestType, requestDate, requestDesc, requestStatus, 
                                 amcDate, amcDur, purchaseDate, prodName);
             
-            reqDb.mapReqService[requestID] = s;
+            reqDb.addToService(s);
             cout<<"Request ID "<<requestID<<" created Successfully."<<endl;
         }
         else if(requestType==demoStr){
@@ -194,7 +184,7 @@ void addRequest(map<string, Customer*> &mapCustomer, ReqDatabase &reqDb){
             Demo *d = new Demo(requestID, custID, requestType, requestDate, requestDesc, requestStatus, 
                                 demoDate, demoAddress, demoTime);
 
-            reqDb.mapReqDemo[requestID] = d;
+            reqDb.addToDemo(d);
             cout<<"Request ID "<<requestID<<" created Successfully."<<endl;
         }   
         else if(requestType==complaintStr){
@@ -213,7 +203,7 @@ void addRequest(map<string, Customer*> &mapCustomer, ReqDatabase &reqDb){
             Complaint *c = new Complaint(requestID, custID, requestType, requestDate, requestDesc, requestStatus, 
                                 category, subCategory, description);
 
-            reqDb.mapReqComplaint[requestID] = c;
+            reqDb.addToComplaint(c);
             cout<<"Request ID "<<requestID<<" created Successfully."<<endl;
         }
         else 

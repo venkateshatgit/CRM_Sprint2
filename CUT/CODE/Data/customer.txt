@@ -17,7 +17,7 @@
 1230341|Aman|Bhaskar|17/2,Patna,Bihar|9562314785|New|
 1230342|Sushant|Singh|Survey-12,PgSN nagar,Madhapur,hyderabad,Telangana|7531598264|Existing|
 1230344|Mahesh|Kumar|1-230,MSM Nagr,Anakapalli,Andhra pradesh|9456789214|New|
-1230345|Sagar|Prabhas|14/8,Radhika Street,hanamkonda,telangana|9578|New|
+1230346|Shyam|msdian|12-b,mahakali street,enikepadu,Vijaywada,AP|New|
 1230348|Dosala Durga|Prasad|14G Colony,Guntur,Andhra Pradesh|8462159375|Existing|
 1230349|Harry|Styles|Near Jesus Church Castilia,Candolim,Goa|7531598622|Existing|
 1230350|Katy|Perry|Aditya Avenue,100 ft street,Bengaluru,Karnataka|7418529630|New|
@@ -32,4 +32,3 @@
 1230360|Krishna|Chaitanya|14,Aravinda nagar,Cherlopalle,Andhra pradesh|8458658520|Existing|
 1230361|Ram|Lakshman|Ramoji Film City,hyderabad,Telangana|8523691471|Existing|
 1230362|Harshith|Sayzz|14/17,nankaram guda,hyderabad,Telangana|8741235698|New|
-1230363|Janakirami|Reddy|703,Swami Vivekanad Bhawan,Surat|9701590372|Existing|

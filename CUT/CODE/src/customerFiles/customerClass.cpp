@@ -1,4 +1,4 @@
-#include "../../include/header.h"
+#include <header.h>
 
 Customer::Customer( string id, string fn, string ln, string add, string phn,string cType):
         customerId(id),

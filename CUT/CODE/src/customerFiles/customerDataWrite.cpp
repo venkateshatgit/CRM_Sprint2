@@ -1,4 +1,4 @@
-#include "../../include/header.h"
+#include <header.h>
 
 //Writing in customer data file
 void customerDataWrite(map<string, Customer*> &mapCustomer, char* filePath){

@@ -1,4 +1,4 @@
-#include "../../include/header.h"
+#include <header.h>
 
 //updating Customer in map
 int updateCustomer(map<string, Customer*> &mapCustomer){

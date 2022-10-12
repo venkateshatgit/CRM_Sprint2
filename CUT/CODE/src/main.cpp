@@ -35,7 +35,7 @@ int main(int argc, char** argv){
                 case 3 :displayReport(mapCustomer, reqDb);
                         break;
 
-                case 4:  TotalRequestCount(reqDb);
+                case 4 :reqDb.totalCount();
                         break;
 
                 case 5 :cout<<"------------- Exiting from CRM application -------------"<<endl;
@@ -53,7 +53,7 @@ int main(int argc, char** argv){
 
         //Writing data to files
         customerDataWrite(mapCustomer, argv[1]);
-        requestDataWrite(reqDb, argv);
+        reqDb.requestDataWrite(argv);
 
         //delete the customer and request data
         deleteMapCustomer(mapCustomer);
@@ -61,7 +61,7 @@ int main(int argc, char** argv){
     }
     catch(int argc){        
         cout<<"ERROR ! in passing argument"<<endl;
-        cout<<"pass argument: './Executable  <Customer Database file_name> <Request Database File Name>'"<<endl;
+        cout<<"pass argument: './Executable' '<Customer Database file_name>' '<Request Database File Name>'"<<endl;
         return 0;
     }
     catch(char *argv){

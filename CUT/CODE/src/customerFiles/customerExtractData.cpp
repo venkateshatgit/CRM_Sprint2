@@ -1,4 +1,4 @@
-#include "../../include/header.h"
+#include <header.h>
 
 void tokenizingFile(string line, map <string, Customer*> &mapCustomer){
 

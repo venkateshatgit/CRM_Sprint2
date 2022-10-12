@@ -1,5 +1,5 @@
-#include "../../include/header.h"
-#include "../../include/functions.h"
+#include <header.h>
+#include <functions.h>
 
 int displayReport( map<string, Customer*> &mapCustomer, ReqDatabase &reqDb)
 {       
@@ -12,16 +12,16 @@ int displayReport( map<string, Customer*> &mapCustomer, ReqDatabase &reqDb)
                 cin>>n;
                 switch(n)
                 {
-                        case 1 : FinalReport_1(reqDb);
+                        case 1 : reqDb.FinalReport_1();
                                 break;
 
-                        case 2: FinalReport_2(reqDb);
+                        case 2: reqDb.FinalReport_2();
                                 break;
 
-                        case 3 : FinalReport_3(reqDb, mapCustomer);
+                        case 3 : reqDb.FinalReport_3(mapCustomer);
                                 break;
 
-                        case 4 : FinalReport_4(reqDb);
+                        case 4 : reqDb.FinalReport_4();
                                 break;
 
                         case 5 :cout<<"-------------------------------------------------------"<<endl;

@@ -19,9 +19,7 @@ void addRequest(map<string, Customer*> &mapCustomer, ReqDatabase &reqDb);
 int updateRequest(ReqDatabase &reqDb);
 int dateValidation(string tempDate);
 int deleteRequest(ReqDatabase &reqDb);
-void TotalRequestCount(ReqDatabase &reqDb);
 void requestManagement(map<string, Customer*> &mapCustomer, ReqDatabase &reqDb);
-void requestDataWrite(ReqDatabase &reqDb, char** argv);
 
 //----------------Report functions--------------
 void FinalReport_1(ReqDatabase &reqDb);

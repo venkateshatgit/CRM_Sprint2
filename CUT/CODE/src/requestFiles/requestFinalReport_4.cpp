@@ -1,7 +1,7 @@
-#include "../../include/header.h"
-#include "../../include/functions.h"
+#include <header.h>
+#include <functions.h>
 
-void FinalReport_4(ReqDatabase &reqDb){
+void ReqDatabase::FinalReport_4(){
     int x,r;
 string tempDate;
     do{
@@ -45,7 +45,7 @@ string tempDate;
     file<<"Service request recieved in Last 30 days between "<<dd<<"/"<<mmtemp<<"/"<<yytemp<<" to "<<dd<<"/"<<mm<<"/"<<yy<<" : "<<endl;
     file<<"***************************************************************************************"<<endl;
 
-    for (auto it = reqDb.mapReqService.begin();it != reqDb.mapReqService.end(); ++it)
+    for (auto it = mapReqService.begin();it != mapReqService.end(); ++it)
     {
         temp1 = it->second->getRequestDate();
          stringstream str1(temp1);
@@ -87,7 +87,7 @@ string tempDate;
     file<<"***************************************************************************************"<<endl;
     
 
-    for (auto it = reqDb.mapReqComplaint.begin();it != reqDb.mapReqComplaint.end(); ++it)
+    for (auto it = mapReqComplaint.begin();it != mapReqComplaint.end(); ++it)
     {
         temp2 = it->second->getRequestDate();
         stringstream str2(temp2);
@@ -114,8 +114,8 @@ string tempDate;
     }
     file<<"***************************************************************************************"<<endl;
     file<<"Demo request recieved in Last 30 days between "<<dd<<"/"<<mmtemp<<"/"<<yytemp<<" to "<<dd<<"/"<<mm<<"/"<<yy<<" : "<<endl;
-   file<<"***************************************************************************************"<<endl;
-    for (auto it = reqDb.mapReqDemo.begin();it != reqDb.mapReqDemo.end(); ++it)
+    file<<"***************************************************************************************"<<endl;
+    for (auto it = mapReqDemo.begin();it != mapReqDemo.end(); ++it)
     {
         temp3 = it->second->getRequestDate();
         stringstream str3(temp3);

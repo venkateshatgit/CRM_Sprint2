@@ -1,4 +1,4 @@
-#include "../../include/header.h"
+#include <header.h>
 
 /*---------------------Create Request---------------------*/
 
@@ -133,7 +133,8 @@ void tokenizingRequestFile(string line,  ReqDatabase &reqDb){
                                             prodName
                                         );
 
-                    reqDb.mapReqService[requestID] = s;                     
+                    // reqDb.mapReqService[requestID] = s;                     
+                    reqDb.addToService(s);
                 }
             }
             
@@ -151,7 +152,8 @@ void tokenizingRequestFile(string line,  ReqDatabase &reqDb){
                                             description
                                         );
 
-                    reqDb.mapReqComplaint[requestID] = c;                     
+                    // reqDb.mapReqComplaint[requestID] = c;   
+                    reqDb.addToComplaint(c);                  
                 }
                 else   
                     throw line; 
@@ -159,7 +161,7 @@ void tokenizingRequestFile(string line,  ReqDatabase &reqDb){
 
             else if(requestType==demoStr){
                 if(demoDate!="" && demoAddress!="" && demoTime!=""){
-                    Demo *demoTemp = new Demo(requestID,
+                    Demo *d = new Demo(requestID,
                                             custID,
                                             requestType,
                                             requestDate,
@@ -170,7 +172,8 @@ void tokenizingRequestFile(string line,  ReqDatabase &reqDb){
                                             demoTime
                                         );
                     
-                    reqDb.mapReqDemo[requestID] = demoTemp;
+                    // reqDb.mapReqDemo[requestID] = demoTemp;
+                    reqDb.addToDemo(d);
                 }
                 else
                     throw line;

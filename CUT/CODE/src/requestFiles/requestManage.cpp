@@ -1,5 +1,5 @@
-#include "../../include/header.h"
-#include "../../include/functions.h"
+#include <header.h>
+#include <functions.h>
 
 void requestManagement(map<string, Customer*> &mapCustomer, ReqDatabase &reqDb)
 {       

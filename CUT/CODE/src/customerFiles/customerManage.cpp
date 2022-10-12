@@ -1,5 +1,5 @@
-#include "../../include/header.h"
-#include "../../include/functions.h"
+#include <header.h>
+#include <functions.h>
 
 int customerManagement(map<string, Customer*> &mapCustomer,char* filename){
 

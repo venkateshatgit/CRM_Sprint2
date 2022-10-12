@@ -1,6 +1,6 @@
-#include "../../include/header.h"
+#include <header.h>
 
-void requestDataWrite(ReqDatabase &reqDb, char** argv){
+void ReqDatabase::requestDataWrite(char** argv){
 
     ofstream file;
 
@@ -9,7 +9,7 @@ void requestDataWrite(ReqDatabase &reqDb, char** argv){
         file.open(argv[2]);
         if(file.is_open()){
             //write Service
-            for(auto it=reqDb.mapReqService.begin(); it!=reqDb.mapReqService.end(); it++){
+            for(auto it=mapReqService.begin(); it!=mapReqService.end(); it++){
                 file<<(it->second->getRequestID())<<"|";
                 file<<(it->second->getCustID())<<"|";
                 file<<(it->second->getrequestType())<<"|";
@@ -24,7 +24,7 @@ void requestDataWrite(ReqDatabase &reqDb, char** argv){
             }
 
             //write compalint
-            for(auto it=reqDb.mapReqComplaint.begin(); it!=reqDb.mapReqComplaint.end(); it++){
+            for(auto it=mapReqComplaint.begin(); it!=mapReqComplaint.end(); it++){
                 file<<(it->second->getRequestID())<<"|";
                 file<<(it->second->getCustID())<<"|";
                 file<<(it->second->getrequestType())<<"|";
@@ -38,7 +38,7 @@ void requestDataWrite(ReqDatabase &reqDb, char** argv){
             }
 
             //write demo
-            for(auto it=reqDb.mapReqDemo.begin(); it!=reqDb.mapReqDemo.end(); it++){
+            for(auto it=mapReqDemo.begin(); it!=mapReqDemo.end(); it++){
                 file<<(it->second->getRequestID())<<"|";
                 file<<(it->second->getCustID())<<"|";
                 file<<(it->second->getrequestType())<<"|";

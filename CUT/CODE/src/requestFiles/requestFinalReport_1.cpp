@@ -1,13 +1,13 @@
-#include "../../include/header.h"
-#include "../../include/functions.h"
+#include <header.h>
+#include <functions.h>
 // REPORT 1 :
 
-void FinalReport_1(ReqDatabase &reqDb){
+void ReqDatabase::FinalReport_1(){
 string date,temp;
 int r;
     do{
     cout<<"Enter a date to get Demos scheduled on given date as dd/mm/yyyy."<<endl;
-    cin>>date;   cin.ignore();        // TODO:date validation& e
+    cin>>date;   cin.ignore();        
     r=dateValidation(date);
     if(r==FAILURE)
     {
@@ -19,7 +19,7 @@ int r;
     file.open("../Data/Demos_Report_1.txt");
     file<<"Demos scheduled on given date : "<<date<<endl;
     file<<"******************************************************************************"<<endl;
-    for (auto it=reqDb.mapReqDemo.begin();it != reqDb.mapReqDemo.end(); ++it)
+    for (auto it=mapReqDemo.begin();it != mapReqDemo.end(); ++it)
     {
         //Demo *temp = it->second;
         temp = it->second->getDemoDate();

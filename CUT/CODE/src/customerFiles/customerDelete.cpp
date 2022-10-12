@@ -1,4 +1,4 @@
-#include "../../include/header.h"
+#include <header.h>
 
 //deleting customer from map
 void deleteCustomer(map<string, Customer*> &mapCustomer){
@@ -13,11 +13,9 @@ void deleteCustomer(map<string, Customer*> &mapCustomer){
 
         Customer* temp = mapCustomer[id];
 
-        //delete in map
         mapCustomer.erase(id);
         cout<<"Customer with the customer ID: "<<id<<" deleted."<<endl;
 
-        //deleting from alloted memory to class
         delete temp;
     }
     catch(string idThrown){

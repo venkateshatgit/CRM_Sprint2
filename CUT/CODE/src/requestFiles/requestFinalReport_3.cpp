@@ -1,4 +1,4 @@
-#include "../../include/header.h"
+#include <header.h>
 
 static int custIdValidation(map<string, Customer*> &mapCustomer, string custID){
 
@@ -9,7 +9,7 @@ static int custIdValidation(map<string, Customer*> &mapCustomer, string custID){
     return 0;
 }
 
-void FinalReport_3(ReqDatabase &reqDb, map<string, Customer*> &mapCustomer){
+void ReqDatabase::FinalReport_3(map<string, Customer*> &mapCustomer){
     string cstmrid, temp3,temp4;
 
     int r;
@@ -28,7 +28,7 @@ void FinalReport_3(ReqDatabase &reqDb, map<string, Customer*> &mapCustomer){
     file.open("../Data/Servicecalls_Report_3.txt");
     file<<"All Service Calls closed for the Customer ID "<< cstmrid <<" are as listed as below: "<<endl<<endl;
     file<<"*****************************************************************"<<endl;
-    for(auto it3=reqDb.mapReqService.begin(); it3!=reqDb.mapReqService.end(); ++it3)
+    for(auto it3=mapReqService.begin(); it3!=mapReqService.end(); ++it3)
     {
         temp3 = it3->second->getCustID();
         temp4 = it3->second->getRequestStatus();
