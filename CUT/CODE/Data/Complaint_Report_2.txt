@@ -2,101 +2,141 @@ All Complaints not addressed as of today :
 ******************************************************************************
 
 Request ID: 1242
+<<<<<<< HEAD
 Customer ID: 1230330
+=======
+Customer Id: 1230330
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 28/09/2022
 Request Description: Washing Machine not working
 Request Status: Open
 Category: Electronics
 Sub Category: Washing Machine
-Description: Front Load Washing Machine
+ Description: Front Load Washing Machine
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1244
+<<<<<<< HEAD
 Customer ID: 1230332
+=======
+Customer Id: 1230332
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 24/09/2022
 Request Description: Mobile Display damaged
 Request Status: Open
 Category: 28/09/2022
 Sub Category: Electronics
-Description: Samsung Mobile S22
+ Description: Samsung Mobile S22
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1247
+<<<<<<< HEAD
 Customer ID: 1230335
+=======
+Customer Id: 1230335
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 28/09/2022
 Request Description: Mattress destroyed by pests
 Request Status: Open
 Category: Furnitures
 Sub Category: Beds and Mattresses
-Description: Inside cotton and foam destroyed
+ Description: Inside cotton and foam destroyed
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1248
+<<<<<<< HEAD
 Customer ID: 1230337
+=======
+Customer Id: 1230337
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 29/09/2022
 Request Description: Inverter not charging
 Request Status: Open
 Category: Electronic Appliances
 Sub Category: Aamaron Inverter
-Description: distilled Water content decreased
+ Description: distilled Water content decreased
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1256
+<<<<<<< HEAD
 Customer ID: 1230348
+=======
+Customer Id: 1230348
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 24/09/2022
 Request Description: Device got exploded and now it is not working
 Request Status: Open
 Category: Electronics appliance
 Sub Category: damage
-Description: Collect and send it to factory
+ Description: Collect and send it to factory
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1260
+<<<<<<< HEAD
 Customer ID: 1230321
+=======
+Customer Id: 1230321
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 26/09/2022
 Request Description: Laptop not working
 Request Status: Open
 Category: Electronic Appliances
 Sub Category: HP laptop
-Description: battery problem
+ Description: battery problem
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1263
+<<<<<<< HEAD
 Customer ID: 1230353
+=======
+Customer Id: 1230353
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 25/09/2022
 Request Description: earphones not working
 Request Status: Open
 Category: Electronic Appliances
 Sub Category: Realme pro earphones
-Description: Left earpiece sound not coming
+ Description: Left earpiece sound not coming
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1265
+<<<<<<< HEAD
 Customer ID: 1230351
+=======
+Customer Id: 1230351
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 28/09/2022
 Request Description: Phone sound decreased
 Request Status: Open
 Category: Electronic Appliances
 Sub Category: Apple iPhone 13
-Description: Phone was dipped in water for 15 minutes
+ Description: Phone was dipped in water for 15 minutes
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1267
+<<<<<<< HEAD
 Customer ID: 1230323
+=======
+Customer Id: 1230323
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 24/09/2022
 Request Description: Device got exploded and now it is not working
 Request Status: Open
 Category: Electronics appliance
 Sub Category: damage
-Description: Collect and send it to factory
+ Description: Collect and send it to factory
 -----------------------------------------------------------------------------------------------
 
 Request ID: 1268
+<<<<<<< HEAD
 Customer ID: 1230334
+=======
+Customer Id: 1230334
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Date: 25/09/2022
 Request Description: Door is not working in Refrigerator
 Request Status: Open
 Category: e-appliance
 Sub Category: Large
-Description: Door hinge damaged
+ Description: Door hinge damaged
 -----------------------------------------------------------------------------------------------

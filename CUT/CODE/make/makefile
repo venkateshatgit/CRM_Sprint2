@@ -15,7 +15,7 @@ IFLAGS=-I $(INC)
 
 
 crm: customer.o request.o main.o 
-	$(GCC) $(OBJ)/main.o $(OBJ)/customerAdd.o $(OBJ)/customerClass.o $(OBJ)/customerDataWrite.o $(OBJ)/customerDelete.o $(OBJ)/customerDeleteMap.o $(OBJ)/customerExtractData.o $(OBJ)/customerManage.o $(OBJ)/customerUpdate.o $(OBJ)/requestAdd.o $(OBJ)/requestClass.o $(OBJ)/requestDataWrite.o $(OBJ)/requestDelete.o $(OBJ)/requestDisplayReport.o $(OBJ)/requestExtractData.o $(OBJ)/requestFinalReport_1.o $(OBJ)/requestFinalReport_2.o $(OBJ)/requestFinalReport_3.o $(OBJ)/requestFinalReport_4.o $(OBJ)/requestManage.o $(OBJ)/reqDatabase.o $(OBJ)/requestUpdate.o $(OBJ)/requestDeleteReqDatabase.o $(LFLAGS) ../bin/crm
+	$(GCC) $(OBJ)/main.o $(OBJ)/customerAdd.o $(OBJ)/customerClass.o $(OBJ)/customerDataWrite.o $(OBJ)/customerDelete.o $(OBJ)/customerDeleteMap.o $(OBJ)/customerExtractData.o $(OBJ)/customerManage.o $(OBJ)/customerUpdate.o $(OBJ)/requestAdd.o $(OBJ)/requestClass.o $(OBJ)/requestDataWrite.o $(OBJ)/requestDelete.o $(OBJ)/requestDisplayReport.o $(OBJ)/requestExtractData.o $(OBJ)/requestFinalReport_1.o $(OBJ)/requestFinalReport_2.o $(OBJ)/requestFinalReport_3.o $(OBJ)/requestFinalReport_4.o $(OBJ)/requestManage.o $(OBJ)/reqDatabase.o $(OBJ)/requestUpdate.o $(LFLAGS) ../bin/crm
 
 customer.o:
 	$(GCC) $(CFLAGS) $(SRC1)/customerAdd.cpp $(LFLAGS) $(OBJ)/customerAdd.o	$(IFLAGS)

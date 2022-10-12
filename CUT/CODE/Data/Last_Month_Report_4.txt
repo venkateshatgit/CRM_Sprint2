@@ -161,7 +161,11 @@ Complaints recieved in Last 30 days between 10/9/2022 to 10/10/2022 :
 
 Request ID: 1237
 Customer Id: 1230322
+<<<<<<< HEAD
 Request Type: 23/09/2022
+=======
+Request Date: 23/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: AC not providing cooling
 Request Status: Closed
 Category: Electronic appliance
@@ -171,7 +175,11 @@ Sub Category: Air Conditioner
 
 Request ID: 1242
 Customer Id: 1230330
+<<<<<<< HEAD
 Request Type: 28/09/2022
+=======
+Request Date: 28/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Washing Machine not working
 Request Status: Open
 Category: Electronics
@@ -181,7 +189,11 @@ Sub Category: Washing Machine
 
 Request ID: 1244
 Customer Id: 1230332
+<<<<<<< HEAD
 Request Type: 24/09/2022
+=======
+Request Date: 24/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Mobile Display damaged
 Request Status: Open
 Category: 28/09/2022
@@ -191,7 +203,11 @@ Sub Category: Electronics
 
 Request ID: 1247
 Customer Id: 1230335
+<<<<<<< HEAD
 Request Type: 28/09/2022
+=======
+Request Date: 28/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Mattress destroyed by pests
 Request Status: Open
 Category: Furnitures
@@ -201,7 +217,11 @@ Sub Category: Beds and Mattresses
 
 Request ID: 1248
 Customer Id: 1230337
+<<<<<<< HEAD
 Request Type: 29/09/2022
+=======
+Request Date: 29/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Inverter not charging
 Request Status: Open
 Category: Electronic Appliances
@@ -211,7 +231,11 @@ Sub Category: Aamaron Inverter
 
 Request ID: 1256
 Customer Id: 1230348
+<<<<<<< HEAD
 Request Type: 24/09/2022
+=======
+Request Date: 24/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Device got exploded and now it is not working
 Request Status: Open
 Category: Electronics appliance
@@ -221,7 +245,11 @@ Sub Category: damage
 
 Request ID: 1260
 Customer Id: 1230321
+<<<<<<< HEAD
 Request Type: 26/09/2022
+=======
+Request Date: 26/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Laptop not working
 Request Status: Open
 Category: Electronic Appliances
@@ -231,7 +259,11 @@ Sub Category: HP laptop
 
 Request ID: 1263
 Customer Id: 1230353
+<<<<<<< HEAD
 Request Type: 25/09/2022
+=======
+Request Date: 25/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: earphones not working
 Request Status: Open
 Category: Electronic Appliances
@@ -241,7 +273,11 @@ Sub Category: Realme pro earphones
 
 Request ID: 1265
 Customer Id: 1230351
+<<<<<<< HEAD
 Request Type: 28/09/2022
+=======
+Request Date: 28/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Phone sound decreased
 Request Status: Open
 Category: Electronic Appliances
@@ -251,7 +287,11 @@ Sub Category: Apple iPhone 13
 
 Request ID: 1267
 Customer Id: 1230323
+<<<<<<< HEAD
 Request Type: 24/09/2022
+=======
+Request Date: 24/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Device got exploded and now it is not working
 Request Status: Open
 Category: Electronics appliance
@@ -261,7 +301,11 @@ Sub Category: damage
 
 Request ID: 1268
 Customer Id: 1230334
+<<<<<<< HEAD
 Request Type: 25/09/2022
+=======
+Request Date: 25/09/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Request Description: Door is not working in Refrigerator
 Request Status: Open
 Category: e-appliance
@@ -278,7 +322,11 @@ Request Type: DRQ
 Request Date:10/10/2022
 Request Description: Demo request for Washing Machine
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: Noida,Uttar Pradesh
 Demo Time: 10:00 AM
 -------------------------------------------------------------------------
@@ -289,7 +337,11 @@ Request Type: DRQ
 Request Date:25/09/2022
 Request Description: Demo for Washing machine Working
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: Rajajinagar,Shimla,Uttar Pradesh
 Demo Time: 04:00 PM
 -------------------------------------------------------------------------
@@ -311,7 +363,11 @@ Request Type: DRQ
 Request Date:27/09/2022
 Request Description: Demo for Vaccum Cleaner
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: Tuljainagar,Kupwad,Sangli
 Demo Time: 03:00PM
 -------------------------------------------------------------------------
@@ -344,7 +400,11 @@ Request Type: DRQ
 Request Date:27/09/2022
 Request Description: Demo needed for AC
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: Sector 49,Gurgoan,haryana
 Demo Time: 4:00 PM
 -------------------------------------------------------------------------
@@ -355,7 +415,11 @@ Request Type: DRQ
 Request Date:28/09/2022
 Request Description: Demo needed for Washing Machine
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: 12-12,Beasant Nagar,vijayawada
 Demo Time: 12:00 PM
 -------------------------------------------------------------------------
@@ -366,7 +430,11 @@ Request Type: DRQ
 Request Date:26/09/2022
 Request Description: Demo Needed for Inverter
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: 14/14,Mahakallama Street,Bhimavaram,Andhra Pradesh
 Demo Time: 12:30 PM
 -------------------------------------------------------------------------
@@ -377,7 +445,11 @@ Request Type: DRQ
 Request Date:28/09/2022
 Request Description: Demo for TV setup
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: 12-12,MR palli,Tirupati,Andhra Pradesh
 Demo Time: 4:00 PM
 -------------------------------------------------------------------------
@@ -388,7 +460,11 @@ Request Type: DRQ
 Request Date:25/09/2022
 Request Description: Demo for AC
 Request Status: Open
+<<<<<<< HEAD
 Demo Date: 008/10/2022
+=======
+Demo Date: 8/10/2022
+>>>>>>> 5777a1995cd66b156a0f25d5e067593822bc1253
 Demo Address: 13B,Sector 35,Noida,Uttar Pradesh
 Demo Time: 5:00 PM
 -------------------------------------------------------------------------
